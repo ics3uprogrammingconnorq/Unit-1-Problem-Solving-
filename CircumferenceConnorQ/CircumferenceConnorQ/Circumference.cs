@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace CircumferenceConnorQ
 {
-    static class Program
+    static class Circumference
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +16,7 @@ namespace CircumferenceConnorQ
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CircumferenceForm());
+            Application.Run(new frmCircumference());
         }
     }
 }
