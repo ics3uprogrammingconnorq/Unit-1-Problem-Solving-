@@ -36,12 +36,6 @@ namespace SchoolMascotConnorQ
             lblMascot.Text = "Saints";
         }
 
-        private void mniStMarks_Click(object sender, EventArgs e)
-        {
-            lblSchool.Text = "Lisgar";
-            lblMascot.Text = "Lords";
-        }
-
         private void mniInterSchoolOfMalaysia_Click(object sender, EventArgs e)
         {
             lblSchool.Text = "International School of Malaysia";

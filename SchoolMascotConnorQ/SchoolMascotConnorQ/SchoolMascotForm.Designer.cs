@@ -31,14 +31,13 @@
             this.mnuSchools = new System.Windows.Forms.MenuStrip();
             this.mniSchools = new System.Windows.Forms.ToolStripMenuItem();
             this.mniImmaculata = new System.Windows.Forms.ToolStripMenuItem();
-            this.mniStMarks = new System.Windows.Forms.ToolStripMenuItem();
             this.mniInterSchoolOfMalaysia = new System.Windows.Forms.ToolStripMenuItem();
             this.mniInterSchoolOfKenya = new System.Windows.Forms.ToolStripMenuItem();
             this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
             this.grbSchool = new System.Windows.Forms.GroupBox();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.lblSchool = new System.Windows.Forms.Label();
             this.lblMascot = new System.Windows.Forms.Label();
+            this.lblSchool = new System.Windows.Forms.Label();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.mnuSchools.SuspendLayout();
             this.grbSchool.SuspendLayout();
             this.SuspendLayout();
@@ -57,7 +56,6 @@
             // 
             this.mniSchools.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mniImmaculata,
-            this.mniStMarks,
             this.mniInterSchoolOfMalaysia,
             this.mniInterSchoolOfKenya,
             this.mniExit});
@@ -71,13 +69,6 @@
             this.mniImmaculata.Size = new System.Drawing.Size(245, 22);
             this.mniImmaculata.Text = "Immaculata";
             this.mniImmaculata.Click += new System.EventHandler(this.mniImmaculata_Click);
-            // 
-            // mniStMarks
-            // 
-            this.mniStMarks.Name = "mniStMarks";
-            this.mniStMarks.Size = new System.Drawing.Size(245, 22);
-            this.mniStMarks.Text = "St.Marks";
-            this.mniStMarks.Click += new System.EventHandler(this.mniStMarks_Click);
             // 
             // mniInterSchoolOfMalaysia
             // 
@@ -110,16 +101,6 @@
             this.grbSchool.TabIndex = 1;
             this.grbSchool.TabStop = false;
             // 
-            // lblSchool
-            // 
-            this.lblSchool.AutoSize = true;
-            this.lblSchool.Font = new System.Drawing.Font("Times New Roman", 24F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSchool.Location = new System.Drawing.Point(40, 42);
-            this.lblSchool.Name = "lblSchool";
-            this.lblSchool.Size = new System.Drawing.Size(33, 37);
-            this.lblSchool.TabIndex = 0;
-            this.lblSchool.Text = "?";
-            // 
             // lblMascot
             // 
             this.lblMascot.AutoSize = true;
@@ -129,6 +110,16 @@
             this.lblMascot.Size = new System.Drawing.Size(33, 37);
             this.lblMascot.TabIndex = 1;
             this.lblMascot.Text = "?";
+            // 
+            // lblSchool
+            // 
+            this.lblSchool.AutoSize = true;
+            this.lblSchool.Font = new System.Drawing.Font("Times New Roman", 24F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSchool.Location = new System.Drawing.Point(40, 42);
+            this.lblSchool.Name = "lblSchool";
+            this.lblSchool.Size = new System.Drawing.Size(33, 37);
+            this.lblSchool.TabIndex = 0;
+            this.lblSchool.Text = "?";
             // 
             // frmSchoolMascot
             // 
@@ -154,7 +145,6 @@
         private System.Windows.Forms.MenuStrip mnuSchools;
         private System.Windows.Forms.ToolStripMenuItem mniSchools;
         private System.Windows.Forms.ToolStripMenuItem mniImmaculata;
-        private System.Windows.Forms.ToolStripMenuItem mniStMarks;
         private System.Windows.Forms.ToolStripMenuItem mniInterSchoolOfMalaysia;
         private System.Windows.Forms.ToolStripMenuItem mniInterSchoolOfKenya;
         private System.Windows.Forms.ToolStripMenuItem mniExit;
