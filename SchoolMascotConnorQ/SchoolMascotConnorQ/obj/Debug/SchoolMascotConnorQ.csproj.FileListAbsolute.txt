@@ -7,3 +7,13 @@ N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)
 N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 1 (Problem Solving)\SchoolMascotConnorQ\SchoolMascotConnorQ\obj\Debug\SchoolMascotConnorQ.csproj.GenerateResource.Cache
 N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 1 (Problem Solving)\SchoolMascotConnorQ\SchoolMascotConnorQ\obj\Debug\SchoolMascotConnorQ.exe
 N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 1 (Problem Solving)\SchoolMascotConnorQ\SchoolMascotConnorQ\obj\Debug\SchoolMascotConnorQ.pdb
+E:\C# Visual Studio\Daily\Unit-1-Problem-Solving-\SchoolMascotConnorQ\SchoolMascotConnorQ\bin\Debug\SchoolMascotConnorQ.exe.config
+E:\C# Visual Studio\Daily\Unit-1-Problem-Solving-\SchoolMascotConnorQ\SchoolMascotConnorQ\bin\Debug\SchoolMascotConnorQ.exe
+E:\C# Visual Studio\Daily\Unit-1-Problem-Solving-\SchoolMascotConnorQ\SchoolMascotConnorQ\bin\Debug\SchoolMascotConnorQ.pdb
+E:\C# Visual Studio\Daily\Unit-1-Problem-Solving-\SchoolMascotConnorQ\SchoolMascotConnorQ\obj\Debug\SchoolMascotConnorQ.csprojAssemblyReference.cache
+E:\C# Visual Studio\Daily\Unit-1-Problem-Solving-\SchoolMascotConnorQ\SchoolMascotConnorQ\obj\Debug\SchoolMascotConnorQ.Properties.Resources.resources
+E:\C# Visual Studio\Daily\Unit-1-Problem-Solving-\SchoolMascotConnorQ\SchoolMascotConnorQ\obj\Debug\SchoolMascotConnorQ.frmSchoolMascot.resources
+E:\C# Visual Studio\Daily\Unit-1-Problem-Solving-\SchoolMascotConnorQ\SchoolMascotConnorQ\obj\Debug\SchoolMascotConnorQ.csproj.GenerateResource.cache
+E:\C# Visual Studio\Daily\Unit-1-Problem-Solving-\SchoolMascotConnorQ\SchoolMascotConnorQ\obj\Debug\SchoolMascotConnorQ.csproj.CoreCompileInputs.cache
+E:\C# Visual Studio\Daily\Unit-1-Problem-Solving-\SchoolMascotConnorQ\SchoolMascotConnorQ\obj\Debug\SchoolMascotConnorQ.exe
+E:\C# Visual Studio\Daily\Unit-1-Problem-Solving-\SchoolMascotConnorQ\SchoolMascotConnorQ\obj\Debug\SchoolMascotConnorQ.pdb
